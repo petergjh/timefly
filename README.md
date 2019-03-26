@@ -1,2 +1,1 @@
-# emacsconf
-my Emacs config.
+my life memory
